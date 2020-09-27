@@ -5,7 +5,11 @@ The purpose  of this analysis is to find out the total fare trend by each city t
 ## Results 
 The summary shown below indicates that the rural ras has the highest fare per ride and per driver, while the city has the lowest faer per ride and per driver. However the total rides of urban is 10 times more than the rural rides with more drivers. Hence the total fares of urban rank the first among all city types. 
 
+![](analysis/Rides_by_city_type.PNG)
+
 During the period of 2019-01-01 through 2019-04-29, the urban still ranked first in total fares, followed by suburban and rural. However, the income of the rural fare remained more stable than the suburban and uban income. There is a deep drop for suburan income at the end of Feb, and the total fare for uban slowly incrase between Jan and March, then fluctuate for the rest of the period. 
+
+![](analysis/PyBer_fare_summary.png)
 
 
 ## Summary 
